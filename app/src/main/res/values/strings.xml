@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WatchNow</string>
+    <string name="title_Name">Watch Now</string>
+    <string name="action_settings">Preferences</string>
+    <string name="showMsgButton">Show Me A Message</string>
+
+</resources>
